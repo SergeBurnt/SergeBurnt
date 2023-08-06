@@ -6,3 +6,5 @@
 
 💬 Связаться со мной:
 [Telegram](https://t.me/Serge_burnt) 
+
+Мой стек: Pandas, Numpy, Matplotlib, Seaborn, Scikit-learn, CatBoost
